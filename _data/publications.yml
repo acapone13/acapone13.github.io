@@ -11,6 +11,7 @@
   tags:
     - tag: ieee-explore
       link: https://ieeexplore.ieee.org/document/8214306
+
 - title: Identification Of Active Cryoforms In The Central Andes Of Argentina Using SAR Data
   authors: 
     - Leonardo D. Euillades
@@ -27,6 +28,7 @@
   tags:
     tag: FRINGE2017
     link: https://fringe2017.esa.int/page_session238.php
+    
 - title: "Analysis of the academic trajectories of engineering students (Análisis de las trayectorias académicas de alumnos de ingeniería)"
   authors:
     - Augusto Capone

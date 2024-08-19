@@ -12,12 +12,12 @@ source "https://rubygems.org"
 # To use GitHub Pages, comment the "gem "jekyll"" below and
 # uncomment the "gem "github-pages"" line.
 # To upgrade, run `bundle update github-pages`.
-# gem "jekyll", "~> 3.8.5"
+# gem "jekyll", "~> 3.9.3"
 gem "github-pages", group: :jekyll_plugins
 
 # Plugins
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
+  gem "jekyll-feed", "~> 0.15"
   gem 'jekyll-sitemap'
   gem 'jekyll-seo-tag'
   gem 'jekyll-redirect-from'

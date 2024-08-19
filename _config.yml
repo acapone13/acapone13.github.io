@@ -25,7 +25,7 @@ url: https://acapone13.github.io
 # Reading Files
 include:
   - _pages
-  - _posters
+  - _data
 
 # Collections
 collections:
