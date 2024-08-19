@@ -1,0 +1,20 @@
+# https://fontawesome.com/
+# https://jpswalsh.github.io/academicons/
+- name: GitHub
+  link: https://github.com/acapone13
+  icon:
+    source: fa
+    name: fa-github
+    type: fab
+- name: LinkedIn
+  link: https://linkedin.com/in/caponeaugusto
+  icon:
+    source: fa
+    name: fa-linkedin
+    type: fab
+- name: Email
+  link: mailto:caponeaugusto@gmail.com
+  icon:
+    source: fa
+    name: fa-envelope
+    type: far
